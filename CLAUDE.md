@@ -13,6 +13,9 @@ on a leaderboard ("Salón de la Fama" / Hall of Fame). The UI targets a neon/CRT
 **Current state**: the `app/` directory is still the unmodified `create-next-app` scaffold (`layout.tsx`,
 `page.tsx`). The actual product has not been built yet.
 
+## Skill
+usa siempre /frontend-disign para deseñar la interfaz de usuario.
+
 ### `references/resources/templates/` — design reference, not app code
 
 This is a standalone, buildless HTML/React prototype (React 18 + Babel Standalone loaded via `<script>` tags
